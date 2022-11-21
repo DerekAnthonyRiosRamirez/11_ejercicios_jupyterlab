@@ -7,8 +7,8 @@
 *Este repositorio contiene los 11 ejercicios realizados en JupyterLab. Estos ejercicios fueron hechos en python con el fin de reforzar conocimientos y adquirir nuevos.*
 *Estos fueron los ejercicios*
 
-*1. Odd or even
-2. Mad Libs Game
+*1. Odd or even*
+*2. Mad Libs Game*
 3. Word Count
 4. Biography info
 5. What's my acronym?
