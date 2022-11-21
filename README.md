@@ -4,9 +4,9 @@
 
 ## 11 Python Projects Junior Developers Can Build for Coding Practice
 
-Este repositorio contiene los 11 ejercicios realizados en JupyterLab. Estos ejercicios fueron hechos en python con el fin de reforzar conocimientos y adquirir nuevos.
-Estos fueron los ejercicios
-1. Odd or even
+*Este repositorio contiene los 11 ejercicios realizados en JupyterLab. Estos ejercicios fueron hechos en python con el fin de reforzar conocimientos y adquirir nuevos.*
+*Estos fueron los ejercicios*
+*1. Odd or even
 2. Mad Libs Game
 3. Word Count
 4. Biography info
@@ -16,4 +16,4 @@ Estos fueron los ejercicios
 8. Is a palindrome
 9. Calculate the tip
 10. Email slicer
-11. Lyrics generator
+11. Lyrics generator*
